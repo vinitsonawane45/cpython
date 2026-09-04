@@ -510,6 +510,10 @@ C compiler options
 
    C preprocessor flags, e.g. :samp:`-I{include_dir}`.
 
+.. option:: CXX
+
+   C++ compiler command.
+
 
 Linker options
 --------------

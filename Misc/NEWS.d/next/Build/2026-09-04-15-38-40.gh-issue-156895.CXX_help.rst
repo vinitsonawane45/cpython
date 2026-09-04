@@ -1,0 +1,1 @@
+Add :envvar:`CXX` to the list of influential environment variables shown by ``./configure --help``.
